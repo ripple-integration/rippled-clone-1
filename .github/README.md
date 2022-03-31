@@ -1,4 +1,4 @@
-# Github configuration
+# Github configuration 
 
 This file provides a brief explanation of the organization of rippled's
 Github configuration for actions, workflows, and templates.
